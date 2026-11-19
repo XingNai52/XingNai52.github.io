@@ -1,8 +1,6 @@
 name: Deploy VCPedia Realm
 
 on:
-  release:
-    types: [published]
   workflow_dispatch:
 
 permissions:
